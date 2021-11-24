@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on cool projects at [Use All Five](https://github.com/useallfive)
 - 🌱 I’m currently learning [Three.js & WebGL](https://threejs-journey.com/)
-- 💬 Ask me about my coffee & matcha latte setup. 🍵🖤☕️
+- 💬 Ask me about my coffee & matcha latte setup. 🍵 🖤 ☕️
 - 📫 How to reach me: [hello@jenniferhail.com](mailto:hello@jenniferhail.com)
 - ⚡ Fun fact: I'm from Kentucky, so bourbon > whiskey. 🥃
 
